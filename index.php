@@ -4,7 +4,7 @@ welcome to anime world
 <pre>
 <?php
 
-print 'ifconfig';
+print `ifconfig`;
 
 ?>
 </pre>
